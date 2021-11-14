@@ -1,0 +1,17 @@
+{
+    "status":"True",
+    "data":[
+        {   
+            "id":"2",
+            "nama":"b",
+            "lokasi":"A",
+            "qty":3,
+            "sales":30000},
+        {
+            "id":"4",
+            "nama":"d",
+            "lokasi":"B",
+            "qty":1,
+            "sales":10000}
+    ]
+}

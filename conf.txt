@@ -1,0 +1,4 @@
+csv = csv_homework
+xlsx = excel_homework
+json = json_homework
+parquet = parquet_homework
