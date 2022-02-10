@@ -1,2 +1,2 @@
 # dataframe
-Make dataframe from filr csv, excel, json and parquet
+Make dataframe from file csv, excel, json and parquet
